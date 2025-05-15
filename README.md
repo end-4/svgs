@@ -1,2 +1,2 @@
-# svgs
-for storing svgs
+# SVGs
+Because Figma's storage is fairly stricted
