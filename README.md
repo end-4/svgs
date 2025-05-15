@@ -1,0 +1,2 @@
+# svgs
+for storing svgs
