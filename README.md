@@ -1,4 +1,7 @@
 # SVGs
-A place to store scalable versions of my designs. This includes
-- Hyprland: the logo wallpaper and a funny logo
-- Default wallpaper of my dotfiles
+
+A place to store scalable versions of my designs
+
+# License
+
+An artwork is licensed under the license file in the same folder as it
